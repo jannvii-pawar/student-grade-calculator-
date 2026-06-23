@@ -1,1 +1,38 @@
+TEST CASES FOR STUDENT GRADE CALCULATOR
 
+1. Input: Priya, 95
+   Expected Output:
+   Grade: A
+   Message: Excellent work! Keep shining! 
+
+2. Input: Rahul, 85
+   Expected Output:
+   Grade: B
+   Message: Very Good! Keep it up! 
+
+3. Input: Sneha, 75
+   Expected Output:
+   Grade: C
+   Message: Good effort! You can do even better! 
+
+4. Input: Amit, 65
+   Expected Output:
+   Grade: D
+   Message: Keep practicing, improvement is possible! 
+
+5. Input: Neha, 45
+   Expected Output:
+   Grade: F
+   Message: Don’t give up, work harder and you’ll improve! 
+
+6. Input: 120
+   Expected Output:
+   Invalid input message
+
+7. Input: -5
+   Expected Output:
+   Invalid input message
+
+8. Input: abc
+   Expected Output:
+   Invalid input message for non-numeric input
